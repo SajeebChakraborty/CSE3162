@@ -229,7 +229,7 @@
                 android:layout_height="60dp"
                 android:layout_marginStart="8dp"
                 android:layout_marginBottom="8dp"
-                android:contentDescription="Sunrise"
+                android:contentDescription="Sunout"
                 android:src="@drawable/ic_sunrise"
                 app:layout_constraintBottom_toTopOf="@+id/tv_sunrise_time"
                 app:layout_constraintHorizontal_chainStyle="spread_inside"
@@ -279,5 +279,6 @@
                 android:textSize="20sp"
                 tools:visibility="visible" />
         </LinearLayout>
+
     </LinearLayout>
 </LinearLayout>
